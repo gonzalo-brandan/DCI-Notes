@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "feaa03e1ea4f4b39",
@@ -128,16 +129,27 @@
                 "file": "markdown.md"
               }
             }
+          },
+          {
+            "id": "8768ee455df12554",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "active": "c3b315268148c3b4",
   "lastOpenFiles": [
+    "link.md",
+    "markdown.md",
     "Untitled.md"
   ]
 }
