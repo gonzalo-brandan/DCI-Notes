@@ -42,6 +42,7 @@ Same for email
 | basic git visualization           | `gitk`                            |
 | git log with less info            | `git log --oneline`                                  |
 
+![img](obsidian://open?vault=notes&file=Pasted%20Image%2020221206161957_055.jpg)
 
 # Fork
 

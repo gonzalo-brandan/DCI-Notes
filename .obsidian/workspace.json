@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "25d8d31eeec53224",
+        "id": "1914feed85b1f64a",
         "type": "tabs",
         "children": [
           {
-            "id": "c3b315268148c3b4",
+            "id": "44829ba26802a5ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b2c16ce751ebb028",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "python.md",
                 "mode": "source",
                 "source": false
               }
@@ -156,10 +144,12 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "c3b315268148c3b4",
+  "active": "44829ba26802a5ce",
   "lastOpenFiles": [
-    "python.md",
+    "Pasted Image 20221206161957_055.jpg",
+    "Excalidraw/Drawing 2022-12-06 16.06.41.excalidraw.md",
     "git.md",
+    "python.md",
     "git.md.md",
     "markdown.md",
     "link.md"
