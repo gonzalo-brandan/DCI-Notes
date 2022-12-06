@@ -1,34 +1,18 @@
 {
   "main": {
-    "id": "55afc2426e17e08b",
+    "id": "2e2f8686aa663bad",
     "type": "split",
     "children": [
       {
-        "id": "25d8d31eeec53224",
+        "id": "9d70849a4d76abf4",
         "type": "tabs",
         "children": [
           {
-            "id": "c3b315268148c3b4",
+            "id": "eb25cde5a74dcbd2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b2c16ce751ebb028",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "python.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -37,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "4a2d70d36659aa2d",
+    "id": "a1dd7c392f5d7a20",
     "type": "split",
     "children": [
       {
-        "id": "88f36b4ab087702c",
+        "id": "a1b717dab7ac77ef",
         "type": "tabs",
         "children": [
           {
-            "id": "6cee00c99958e5e6",
+            "id": "920dd0ba19ad5eb2",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -55,7 +39,7 @@
             }
           },
           {
-            "id": "87605926335ea3c9",
+            "id": "f19a3be4270ede54",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -70,7 +54,7 @@
             }
           },
           {
-            "id": "7c003aeff2779bcd",
+            "id": "f42c7deeea70e926",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -81,23 +65,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "feaa03e1ea4f4b39",
+    "id": "29fd7b5a4c0d71df",
     "type": "split",
     "children": [
       {
-        "id": "d7b78bc1b0d599ab",
+        "id": "8cf645b3004748f1",
         "type": "tabs",
         "children": [
           {
-            "id": "c3c022c028ab5b48",
+            "id": "1da6975ff07dedea",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,19 +92,18 @@
             }
           },
           {
-            "id": "058c8012edd225e4",
+            "id": "a5b385f0c43e2ccd",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "11bd89b777ec0706",
+            "id": "14674d1c403ee621",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -132,36 +114,20 @@
             }
           },
           {
-            "id": "0e96ea6fb58d4355",
+            "id": "487843e4e046c2fd",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "git.md"
-              }
-            }
-          },
-          {
-            "id": "8768ee455df12554",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300,
+    "collapsed": true
   },
-  "active": "c3b315268148c3b4",
-  "lastOpenFiles": [
-    "python.md",
-    "git.md",
-    "git.md.md",
-    "markdown.md",
-    "link.md"
-  ]
+  "active": "eb25cde5a74dcbd2",
+  "lastOpenFiles": []
 }
