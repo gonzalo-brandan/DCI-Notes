@@ -31,39 +31,16 @@ Same for email
 
 # Branching
 
-less details
-git log --oneline
-
-to go to a specific commit
-git checkout <commit id>
-
-gitk 
-basic visualization of branches
-
-
-to know in which branch are we at
-git branch 
-
-to switch to another branch
-git switch name-of-the-branch
-git checkout name-of-the-branch
-
-to create a branch from where we are
-git checkout -b <branchname>
-
-tto create a branch
-git checkout -b <branch name> [start point]
-
-renaming branches
-git branch -m new-name
-
-| Task                              | Command                         | 
-| --------------------------------- | ------------------------------- | 
-| go to a specific commit           | git checkout *commit-id*        | 
-| to know in which branch are we at | git branch                      |   
-| to create a new branch            | git checkout -b                 |     
-| to switch to another branch       | git switch *name-of-the-branch* |     
-| to rename a branch                | git branch -m *new-name*        |     
+l
+| Task                              | Command                           |
+| --------------------------------- | --------------------------------- |
+| go to a specific commit           | `git checkout *commit-id*`        |
+| to know in which branch are we at | `git branch`                      |
+| to create a new branch            | `git checkout -b *branch-name*`   |
+| to switch to another branch       | `git switch *name-of-the-branch*` |
+| to rename a branch                | `git branch -m *new-name*`        |
+| basic git visualization           | `gitk`                            |
+| git log with less info            | git log --oneline                                  |
 
 
 # Fork
