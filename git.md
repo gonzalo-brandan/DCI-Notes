@@ -31,7 +31,7 @@ Same for email
 
 # Branching
 
-l
+
 | Task                              | Command                           |
 | --------------------------------- | --------------------------------- |
 | go to a specific commit           | `git checkout *commit-id*`        |
@@ -40,7 +40,7 @@ l
 | to switch to another branch       | `git switch *name-of-the-branch*` |
 | to rename a branch                | `git branch -m *new-name*`        |
 | basic git visualization           | `gitk`                            |
-| git log with less info            | git log --oneline                                  |
+| git log with less info            | `git log --oneline`                                  |
 
 
 # Fork
