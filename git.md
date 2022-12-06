@@ -34,15 +34,14 @@ Same for email
 
 | Task                              | Command                           |
 | --------------------------------- | --------------------------------- |
-| go to a specific commit           | `git checkout *commit-id*`        |
+| go to a specific commit           | `git checkout <commit-id>`        |
 | to know in which branch are we at | `git branch`                      |
-| to create a new branch            | `git checkout -b *branch-name*`   |
-| to switch to another branch       | `git switch *name-of-the-branch*` |
-| to rename a branch                | `git branch -m *new-name*`        |
+| to create a new branch            | `git checkout -b <branch-name>`   |
+| to switch to another branch       | `git switch <name-of-the-branch>` |
+| to rename a branch                | `git branch -m <new-name>`        |
 | basic git visualization           | `gitk`                            |
 | git log with less info            | `git log --oneline`                                  |
 
-![img](obsidian://open?vault=notes&file=Pasted%20Image%2020221206161957_055.jpg)
 
 # Fork
 
